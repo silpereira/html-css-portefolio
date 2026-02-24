@@ -6,5 +6,5 @@ Como visualizar
 2. Abrir `index.html` no navegador
 
 tecnologias usadas
-1.html5
+1  html5
 2. github
